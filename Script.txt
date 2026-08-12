@@ -1,0 +1,2 @@
+Script de automatización para Teleinformatica
+COnfiguración del entorno de Ubuntu
